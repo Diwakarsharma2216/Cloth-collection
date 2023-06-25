@@ -69,7 +69,7 @@ const ListHeader = ({ children }) => {
   );
 };
 
-export default function LargeWithNewsletter() {
+export default function Footer() {
   return (
     <Box
       bg={useColorModeValue('gray.50', 'gray.900')}
